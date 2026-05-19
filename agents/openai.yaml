@@ -1,0 +1,4 @@
+interface:
+  display_name: "Article Humanizer Check"
+  short_description: "AI-trace review for academic text"
+  default_prompt: "Use $article-humanizer-check to review this academic text for AI-like wording with minimal-change suggestions."
